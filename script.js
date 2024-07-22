@@ -1,3 +1,4 @@
+//fungsi untuk menampilkan value
 function dis(val) {
     document.getElementById("result").value += val
 }
